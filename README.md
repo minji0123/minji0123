@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @minji0123
-- :wrench: my major is mechanical engineering  
+- :wrench: My major is mechanical engineering  
 - :balloon: I’m currently learning JAVA language  
 - 📫 How to reach me : sso02027@naver.com or https://gallery-k.tistory.com/  
 

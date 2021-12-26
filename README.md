@@ -1,6 +1,6 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=cylinder&&color=fcdee1&height=200&section=header&text=MinJi?_minmi&animation=blinking&fontSize=90&fontColor=d6ace6) 
+![header](https://capsule-render.vercel.app/api?type=cylinder&&color=fcdee1&height=250&section=header&text=MinJi?_minmi&animation=blinking&fontSize=90&fontColor=d6ace6) 
 
 
  👋 Hi, I’m @minji0123  

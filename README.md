@@ -1,13 +1,15 @@
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=timeAuto&height=300&section=header&text=MinJi?_minmi&animation=blinking&fontSize=90) 
+<div align="center">
+  
+![header](https://capsule-render.vercel.app/api?type=cylinder&&color=fcdee1&height=250&section=header&text=MinJi?_minmi&animation=blinking&fontSize=90&fontColor=d6ace6) 
 
 
-- 👋 Hi, I’m @minji0123
-- :wrench: My major is mechanical engineering  
-- :balloon: I’m currently learning JAVA language  
-- 📫 How to reach me : sso02027@naver.com or https://gallery-k.tistory.com/ 
+ 👋 Hi, I’m @minji0123  
+ :wrench: My major is mechanical engineering  
+ :balloon: I’m currently learning React  
 
+</div>
 
-<h1 align="center"> :computer: minmi's own tech :computer: </h1>
+<h2 align="center"> :computer: minmi's own tech :computer: </h2>
 
 <h3 align="center">Front-end</h3>
 <p align="center">
@@ -15,7 +17,6 @@
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/></a>
 </p>
-<br>
 
 <h3 align="center">Back-end</h3>
 <p align="center">
@@ -26,15 +27,19 @@
 <br>
 
 
-<h1 align="center"> 📫 you can reach me 📫 </h1>
+<h2 align="center"> 📫 you can reach me 📫 </h2>
 
-<p align="center">
+<div align="center">
   
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:catchuwink9594@gmail.com)
-[![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)](https://gallery-k.tistory.com/)
- 
-</p>
+  [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:catchuwink9594@gmail.com)
+  [![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)](https://gallery-k.tistory.com/)
+  
+</div>
 <br>
 
+<h2 align="center"> :seedling: and this is my status :seedling: </h2>
+<div align="center">
+  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minji0123&show_icons=true&theme=radical)
 
+</div>

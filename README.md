@@ -46,6 +46,10 @@
 <h2 align="center"> :seedling: and this is my status :seedling: </h2>
 <div align="center">
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=minji0123&show_icons=true&theme=radical)
+ 
+[![minji0123's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=minji0123&show_icons=true&hide_border=true&icon_color=004386&layout=compact&theme=radical)](https://github.com/minji0123)
+<br> 
+![minji0123's GitHub stats](https://github-readme-stats.vercel.app/api?username=minji0123&show_icons=true&theme=radical)
+
 
 </div>
